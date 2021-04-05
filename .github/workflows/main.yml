@@ -38,8 +38,9 @@ jobs:
       # Instalando as dependencias
       - run: npm install
         
-      # Executar os testes usando o cucumber
+      # Executar os testes
       - run: npx cypress run
+      - continue-on-error: true
       
       # Gerar o relatório em HTML
       - run: npm run report:merge
