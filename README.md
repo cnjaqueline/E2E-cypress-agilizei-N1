@@ -36,6 +36,5 @@ $ npm install
 $ npx cypress open
 
 ```
-### 💻 Spec: Booking
-![booking spec js](https://user-images.githubusercontent.com/78482349/116003546-c6175600-a5d4-11eb-82cd-7a131f87723f.gif)
-
+### 💻 Spec: Cadastro de usuário
+![cadastro_usuario spec js](https://user-images.githubusercontent.com/78482349/115606376-ffd91b80-a2b9-11eb-808c-baf9f89ea386.gif)
